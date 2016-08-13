@@ -1,8 +1,8 @@
-rohullah<br><b>alavi
-    <br>
+<b>One</b> BOX
+<br>
 <?php
-$bbc = 23;
-$jzk = 34;
+$bbc = 2;
+$jzk = 7;
 $ali = $bbc+$jzk;
 //for ($i=1;$i<=30;$i++) {
 //    echo "<br>";
